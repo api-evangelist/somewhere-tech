@@ -1,4 +1,4 @@
-# somewhere-tech
+# Somewhere HQ, Inc.
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-somewhere-tech is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://somewhere.tech/
+Somewhere HQ, Inc. provides a cloud platform that enables AI agents to build, deploy, and manage applications with minimal configuration. The service offers managed databases, authentication, payments, storage, real‑time messaging, and AI model integration, all accessible via a unified API. It emphasizes an agent‑first approach, allowing developers to focus on product logic while the platform handles infrastructure, security, and scaling. Documentation, pricing, and quick‑start guides are publicly available, and the platform operates under a transparent privacy and terms policy.
+
+**Areas:** Cloud · AI · Platform · Deployment · Automation
+
+## Somewhere HQ, Inc. on APIs.io
+
+Everything profiled for Somewhere HQ, Inc. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/somewhere-tech/](https://apis.io/providers/somewhere-tech/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Somewhere HQ, Inc. API](https://apis.io/apis/somewhere-tech/somewhere-tech-api/) — Somewhere HQ, Inc. API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-11-25); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetV1AuthTempCreateResponse](https://apis.io/schemas/somewhere-tech/somewhere-tech-get-v1-auth-temp-create-response/)
+- [GetV1DeployResponse](https://apis.io/schemas/somewhere-tech/somewhere-tech-get-v1-deploy-response/)
+- [PostV1AuthTempCreateRequest](https://apis.io/schemas/somewhere-tech/somewhere-tech-post-v1-auth-temp-create-request/)
+- [PostV1AuthTempCreateResponse](https://apis.io/schemas/somewhere-tech/somewhere-tech-post-v1-auth-temp-create-response/)
+- [PostV1DeployRequest](https://apis.io/schemas/somewhere-tech/somewhere-tech-post-v1-deploy-request/)
+- [PostV1DeployResponse](https://apis.io/schemas/somewhere-tech/somewhere-tech-post-v1-deploy-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Somewhere Tech Context](https://apis.io/jsonld/somewhere-tech/somewhere-tech-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Somewhere HQ, Inc. API Rules](https://apis.io/rules/somewhere-tech/somewhere-tech-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Somewhere HQ, Inc. Authentication](https://apis.io/security/somewhere-tech/somewhere-tech-authentication/)
+- [Somewhere HQ, Inc. Domain Security](https://apis.io/security/somewhere-tech/somewhere-tech-domain-security/)
+- [Somewhere HQ, Inc. Trust Center](https://apis.io/security/somewhere-tech/somewhere-tech-trust-center/)
+- [Somewhere HQ, Inc. Vulnerability Disclosure](https://apis.io/security/somewhere-tech/somewhere-tech-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Somewhere HQ, Inc. Plans Pricing](https://apis.io/plans/somewhere-tech/somewhere-tech-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://somewhere.cloud/)
+- [Documentation](https://somewhere.cloud/docs)
+- [Getting started](https://somewhere.cloud/start.txt)
+- [Pricing](https://somewhere.cloud/pricing)
+- [Support](https://somewhere.cloud/support)
+- [Security](https://somewhere.cloud/security)
+- [Terms of service](https://somewhere.cloud/terms)
+- [Privacy policy](https://somewhere.cloud/privacy)
+
+## API Evangelist rating
+
+**Kin Score 58.9** — strong · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 54.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 81.1 |
+
+**Agent readiness 38.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/somewhere-tech/](https://apis.io/providers/somewhere-tech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Somewhere HQ, Inc.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/somewhere-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
